@@ -1,6 +1,6 @@
 <?php
 
-namespace Engine;
+namespace HBF\Engine;
 
 defined( 'ABSPATH' ) || exit;
 

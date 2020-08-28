@@ -1,7 +1,7 @@
 <?php
 
-namespace Engine;
-use Engine\AbstractClass\Base;
+namespace HBF\Engine;
+use HBF\Engine\AbstractClass\Base;
 
 defined( 'ABSPATH' ) || exit;
  
@@ -23,7 +23,6 @@ class HBF extends Base {
  		$this->menu = new Menu( );
  		$this->request = new Request( );
  		$this->sidebar = new Sidebar( );
- 		$this->template = new Template( );
 	}
 
 }

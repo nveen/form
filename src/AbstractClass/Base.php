@@ -1,6 +1,6 @@
 <?php
 
-namespace Engine\AbstractClass;
+namespace HBF\Engine\AbstractClass;
 
 defined( 'ABSPATH' ) || exit;
  
