@@ -1,0 +1,17 @@
+{
+    "name": "hbf/engine",
+    "description": "HestaBit Core engine for WordPress",
+    "keywords" : [
+        "wordpress",
+        "engine"
+    ],
+    "authors": [
+        {
+            "name": "Naveen Sharma",
+        }
+    ],
+    "type": "wordpress-engine",
+    "require": {
+        "php": ">=5.6"
+    }
+}
