@@ -7,9 +7,15 @@
     ],
     "authors": [
         {
-            "name": "Naveen Sharma"
+            "name": "Naveen Sharma",
+            "email": "nsnveen@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "HBF\\Engine\\": "src/"
+        }
+    },
     "type": "wordpress-engine",
     "require": {
         "php": ">=5.6"
