@@ -13,7 +13,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "HBF\\Engine\\": "src/"
+            "HBF\\Form\\": "src/"
         }
     },
     "type": "wordpress-engine",
